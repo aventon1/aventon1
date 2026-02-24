@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aventon1
-- 👀 I’m interested in ... machine learning.
-- 🌱 I’m currently learning ... natural language processing.
+- 👀 I’m interested in ... building tools to make tasks easier.
+- 🌱 I’m currently learning ... web development.
 - 💞️ I’m looking to collaborate on ... any and everything.
 - 📫 How to reach me ... through this website.
 
